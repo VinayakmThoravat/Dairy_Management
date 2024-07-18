@@ -471,5 +471,5 @@ class prod extends JFrame implements ActionListener, FocusListener{
     prod obj= new prod();
     obj.MainScreen();
 } 
-  
+  ''
 }
